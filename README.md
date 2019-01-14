@@ -1,5 +1,2 @@
 # test01
-nothing to see here
-What am I doing here?
-test test test
-Plese work
+Тестовый репозиторий для обучения работе с GitHub
