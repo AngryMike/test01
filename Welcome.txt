@@ -3,3 +3,4 @@ print("How do you do?");
 print("Have a nice day");
 print("Zdarova");
 print("Kak tvoi dela?");
+print("I dont want to talk about this");
